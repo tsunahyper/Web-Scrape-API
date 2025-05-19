@@ -54,8 +54,8 @@ This will:
 	•	Store the file in your Downloads directory
 
 ### 📂 Output
-	•	File format: .csv or .xlsx
-	•	Default path: /home/username/Downloads or C:\Users\username\Downloads (depending on OS)
+File format: .csv or .xlsx
+Default path: /home/username/Downloads or C:\Users\username\Downloads (depending on OS)
  
 ### 📸 Sample Screenshot (Optional)
 Include a screenshot of the table or download button if using a frontend.
@@ -70,5 +70,5 @@ Include a screenshot of the table or download button if using a frontend.
 ```
 
 ### 👨‍💻 Author
-	•	Created by Tsunahyper
-	•	GitHub: https://github.com/tsunahyper
+Created by Tsunahyper
+GitHub: https://github.com/tsunahyper
