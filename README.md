@@ -54,7 +54,7 @@ This will:
 	•	Store the file in your Downloads directory
 
 ### 📂 Output
-File format: .csv or .xlsx
+File format: .csv or .xlsx <br>
 Default path: /home/username/Downloads or C:\Users\username\Downloads (depending on OS)
  
 ### 📸 Sample Screenshot (Optional)
